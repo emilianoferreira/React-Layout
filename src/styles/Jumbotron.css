@@ -1,0 +1,17 @@
+.jumbotron{
+    background-color: rgba(226, 225, 225, 0.619);
+    padding: 3rem;
+    border-radius: 15px;
+    margin-top: 1rem;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+button:hover{
+    color:white;
+}
+
+
